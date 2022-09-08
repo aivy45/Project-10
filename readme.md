@@ -16,7 +16,7 @@
 - [Live Link](https://project10-ineuron-45.netlify.app/)
 
 
-
+![image](images/project-10.png)
 
 
 
